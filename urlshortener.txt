@@ -12,3 +12,4 @@ git push -u origin gh-pages
 3. Разработать api (структура json
 4. Jquery -> Vanilla
 5. README.md
+6. REINIT
