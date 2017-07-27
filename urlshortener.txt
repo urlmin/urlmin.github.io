@@ -1,0 +1,14 @@
+shturl.tk
+urlmin.tk
+urler.ml
+
+urler.site@gmail.com
+
+git push -u origin gh-pages
+
+# TODO
+1. Прикрепить urlmin.tk
+2. Создать страницу 404
+3. Разработать api (структура json
+4. Jquery -> Vanilla
+5. README.md
